@@ -48,8 +48,8 @@ Analyzes the **last 50 contests** of each division (Div 1, 2, 3, and 4), updated
 
 ## 🙋‍♂️ Author
 
-**Gaurav Yadav**  
-B.Tech (2022–2026), Indian Institute of Technology - IIT BHU
+**Harshit Meena**  
+B.Tech (2023–2027), Indian Institute of Technology Kharagpur- IIT KGP
 
 ---
 
