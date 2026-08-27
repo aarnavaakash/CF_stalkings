@@ -48,8 +48,8 @@ Analyzes the **last 50 contests** of each division (Div 1, 2, 3, and 4), updated
 
 ## 🙋‍♂️ Author
 
-**Harshit Meena**  
-B.Tech (2023–2027), Indian Institute of Technology Kharagpur- IIT KGP
+**Akash Kumar**  
+B.Tech (2023–2028), Indian Institute of Technology Kharagpur- IIT KGP
 
 ---
 
